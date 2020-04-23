@@ -1,11 +1,10 @@
-# React Dropzone Uploader
+# React Dropzone Uploader (Error Upload Fix)
 
-
-[![NPM](https://img.shields.io/npm/v/react-dropzone-uploader.svg)](https://www.npmjs.com/package/react-dropzone-uploader)
-[![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/react-dropzone-uploader.svg)](https://www.npmjs.com/package/react-dropzone-uploader)
+[![NPM](https://img.shields.io/npm/v/react-dropzone-uploader-error-upload-fix.svg)](https://www.npmjs.com/package/react-dropzone-uploader-error-upload-fix)
+[![npm bundle size (minified + gzip)](https://img.shields.io/bundlephobia/minzip/react-dropzone-uploader-error-upload-fix.svg)](https://www.npmjs.com/package/react-dropzone-uploader-error-upload-fix)
 
 React Dropzone Uploader is a customizable file dropzone and uploader for React.
-
+Includes a fix where no XHR response is accessible on `error_upload`.
 
 ## Features
 - Detailed file metadata and previews, especially for image, video and audio files
