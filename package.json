@@ -1,6 +1,6 @@
 {
-  "name": "@JeffreyCA/react-dropzone-uploader",
-  "version": "2.11.5",
+  "name": "@jeffreyca/react-dropzone-uploader",
+  "version": "2.11.6",
   "author": "JeffreyCA <jeffreyca16@gmail.com>",
   "description": "React file dropzone and uploader: fully customizable, progress indicators, upload cancellation and restart, zero deps and excellent TypeScript support",
   "main": "./dist/react-dropzone-uploader.js",
@@ -20,9 +20,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/JeffreyCA/react-dropzone-uploader"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "homepage": "https://react-dropzone-uploader.js.org/",
   "bugs": {
