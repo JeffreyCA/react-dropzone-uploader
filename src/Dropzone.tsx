@@ -1,5 +1,5 @@
-import React from 'react'
-import PropTypes from 'prop-types'
+import * as React from 'react'
+import * as PropTypes from 'prop-types'
 
 import LayoutDefault from './Layout'
 import InputDefault from './Input'
@@ -804,6 +804,7 @@ Dropzone.propTypes = {
 
 export default Dropzone
 export {
+  Dropzone,
   LayoutDefault as Layout,
   InputDefault as Input,
   PreviewDefault as Preview,
